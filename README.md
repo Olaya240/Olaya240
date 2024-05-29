@@ -1,6 +1,4 @@
 # Hi there, I'm Olaya 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing in web application and website development. I have a keen eye for detail and a commitment to delivering the best user experiences.
 
 ## About Me
